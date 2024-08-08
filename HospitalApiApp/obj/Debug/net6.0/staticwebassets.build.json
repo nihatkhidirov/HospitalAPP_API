@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CTvluM/kbrpmtT51fgU6qU5OzWOF97XTsPBBrDtiY0g=",
+  "Source": "HospitalApiApp",
+  "BasePath": "_content/HospitalApiApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

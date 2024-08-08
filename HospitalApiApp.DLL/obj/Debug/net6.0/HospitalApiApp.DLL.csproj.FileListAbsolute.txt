@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\ASP.NET\HospitalApiApp\HospitalApiApp.DLL\bin\Debug\net6.0\HospitalApiApp.DLL.deps.json
+C:\Users\hp\Desktop\ASP.NET\HospitalApiApp\HospitalApiApp.DLL\bin\Debug\net6.0\HospitalApiApp.DLL.runtimeconfig.json
+C:\Users\hp\Desktop\ASP.NET\HospitalApiApp\HospitalApiApp.DLL\bin\Debug\net6.0\HospitalApiApp.DLL.dll
+C:\Users\hp\Desktop\ASP.NET\HospitalApiApp\HospitalApiApp.DLL\bin\Debug\net6.0\HospitalApiApp.DLL.pdb
+C:\Users\hp\Desktop\ASP.NET\HospitalApiApp\HospitalApiApp.DLL\obj\Debug\net6.0\HospitalApiApp.DLL.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\ASP.NET\HospitalApiApp\HospitalApiApp.DLL\obj\Debug\net6.0\HospitalApiApp.DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\ASP.NET\HospitalApiApp\HospitalApiApp.DLL\obj\Debug\net6.0\HospitalApiApp.DLL.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\ASP.NET\HospitalApiApp\HospitalApiApp.DLL\obj\Debug\net6.0\HospitalApiApp.DLL.AssemblyInfo.cs
+C:\Users\hp\Desktop\ASP.NET\HospitalApiApp\HospitalApiApp.DLL\obj\Debug\net6.0\HospitalApiApp.DLL.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ASP.NET\HospitalApiApp\HospitalApiApp.DLL\obj\Debug\net6.0\HospitalApiApp.DLL.dll
+C:\Users\hp\Desktop\ASP.NET\HospitalApiApp\HospitalApiApp.DLL\obj\Debug\net6.0\refint\HospitalApiApp.DLL.dll
+C:\Users\hp\Desktop\ASP.NET\HospitalApiApp\HospitalApiApp.DLL\obj\Debug\net6.0\HospitalApiApp.DLL.pdb
+C:\Users\hp\Desktop\ASP.NET\HospitalApiApp\HospitalApiApp.DLL\obj\Debug\net6.0\HospitalApiApp.DLL.genruntimeconfig.cache
+C:\Users\hp\Desktop\ASP.NET\HospitalApiApp\HospitalApiApp.DLL\obj\Debug\net6.0\ref\HospitalApiApp.DLL.dll

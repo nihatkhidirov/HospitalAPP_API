@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalApiApp", "HospitalApiApp\HospitalApiApp.csproj", "{F13ED598-BE3D-4D46-9D3E-A9CCA16EA35D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalApiApp.DLL", "HospitalApiApp.DLL\HospitalApiApp.DLL.csproj", "{FAE608B8-C35A-46DD-851C-898F72C58682}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F13ED598-BE3D-4D46-9D3E-A9CCA16EA35D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F13ED598-BE3D-4D46-9D3E-A9CCA16EA35D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F13ED598-BE3D-4D46-9D3E-A9CCA16EA35D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F13ED598-BE3D-4D46-9D3E-A9CCA16EA35D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAE608B8-C35A-46DD-851C-898F72C58682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAE608B8-C35A-46DD-851C-898F72C58682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAE608B8-C35A-46DD-851C-898F72C58682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAE608B8-C35A-46DD-851C-898F72C58682}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8776432-A51A-404F-9D8B-1A56FBEE0756}
+	EndGlobalSection
+EndGlobal
